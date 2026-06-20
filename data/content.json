@@ -1,0 +1,265 @@
+{
+  "site": {
+    "name": "SaveDriveQuotes",
+    "phone": "1-800-555-0123",
+    "tagline": "The smarter way to compare car insurance quotes from 50+ top-rated providers."
+  },
+  "hero": {
+    "badge": "Over 2 Million Drivers Compared",
+    "headline1": "Cheap Car Insurance",
+    "headline2": "Quotes",
+    "headline3": "— Compare &",
+    "headline4": "Save up to $700/yr",
+    "description": "Stop overpaying. In just 2 minutes, compare real quotes from 50+ top-rated insurers and lock in a better rate today.",
+    "bullets": [
+      "No credit check required",
+      "Compare 50+ top insurers instantly",
+      "100% free — no obligation",
+      "Average savings of $700/year"
+    ],
+    "stats": [
+      { "value": "2M+", "label": "Drivers Compared" },
+      { "value": "$700", "label": "Avg. Annual Savings" },
+      { "value": "4.8★", "label": "Customer Rating" }
+    ],
+    "form": {
+      "badge": "FREE QUOTE TOOL",
+      "title": "See Your Best Rates Now",
+      "subtitle": "Takes under 2 minutes · No obligations",
+      "fields": [
+        { "name": "zip", "placeholder": "ZIP Code", "type": "text" },
+        { "name": "name", "placeholder": "Full Name", "type": "text" },
+        { "name": "email", "placeholder": "Email Address", "type": "email" },
+        { "name": "phone", "placeholder": "Phone Number", "type": "tel" }
+      ],
+      "cta": "Compare My Quotes Free",
+      "trust": "256-bit SSL Encrypted · No credit check · 100% Free",
+      "partnersLabel": "COMPARING RATES FROM",
+      "partners": ["Progressive", "Geico", "State Farm", "Allstate", "Liberty Mutual", "& more"]
+    }
+  },
+  "partners": {
+    "badge": "OUR PARTNERS",
+    "heading": "We Compare 50+ Top-Rated Insurers",
+    "list": [
+    { 
+      "name": "Allstate", 
+      "initial": "A", 
+      "color": "#003087",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/12/Allstate-logo.jpg"
+    },
+    { 
+      "name": "Liberty Mutual", 
+      "initial": "L", 
+      "color": "#E8A000",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_Liberty_Insurance.png"
+    },
+    { 
+      "name": "Nationwide", 
+      "initial": "N", 
+      "color": "#003087",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyh4jXVs_xhL_BgY_I0lKn1l3R1BQG75xuQpNu4pGHg&s=10"
+    },
+    { 
+      "name": "Farmers", 
+      "initial": "F", 
+      "color": "#C8102E",
+      "logo": "https://1000logos.net/wp-content/uploads/2022/06/Farmers-Insurance-Group-logo.png"
+    },
+    { 
+      "name": "USAA", 
+      "initial": "U", 
+      "color": "#003087",
+      "logo": "https://logos-world.net/wp-content/uploads/2021/03/USAA-United-Services-Automobile-Association-Logo.png"
+    },
+    { 
+      "name": "Travelers", 
+      "initial": "T", 
+      "color": "#C8102E",
+      "logo": "https://1000logos.net/wp-content/uploads/2023/01/Travelers-logo.png"
+    },
+    { 
+      "name": "American Family", 
+      "initial": "A", 
+      "color": "#5B3FA6",
+      "logo": "https://1000logos.net/wp-content/uploads/2022/12/American-Family-Insurance-logo.png"
+    },
+    { 
+      "name": "Erie", 
+      "initial": "E", 
+      "color": "#003087",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Erie_Insurance_Group_logo.svg/250px-Erie_Insurance_Group_logo.svg.png"
+    }
+  ]
+  },
+  "howItWorks": {
+    "badge": "SIMPLE PROCESS",
+    "heading": "How It Works",
+    "subheading": "Three easy steps to better car insurance. No phone calls, no paperwork.",
+    "steps": [
+      {
+        "num": 1,
+        "title": "Enter Your Info",
+        "desc": "Provide basic details about yourself and your vehicle in under 2 minutes.",
+        "icon": "doc"
+      },
+      {
+        "num": 2,
+        "title": "Compare Quotes",
+        "desc": "Instantly see side-by-side quotes from 50+ top-rated insurers.",
+        "icon": "chart"
+      },
+      {
+        "num": 3,
+        "title": "Save & Switch",
+        "desc": "Choose the best rate and switch seamlessly. Start saving immediately.",
+        "icon": "badge"
+      }
+    ]
+  },
+  "whyUs": {
+    "badge": "WHY SAVEDRIVEQUOTES",
+    "heading": "The Smarter Way to Buy Car Insurance",
+    "cards": [
+      {
+        "iconType": "clock",
+        "iconBg": "#0D9488",
+        "title": "Quotes in ~2 Minutes",
+        "desc": "Get multiple competitive quotes instantly — no waiting, no callbacks, no hassle."
+      },
+      {
+        "iconType": "dollar",
+        "iconBg": "#F97316",
+        "title": "Save up to $700 a Year",
+        "desc": "Drivers who compare save an average of $700 annually on car insurance."
+      },
+      {
+        "iconType": "shield",
+        "iconBg": "#0F2B3D",
+        "title": "No Risk to Compare",
+        "desc": "Comparing quotes is 100% free. No commitment, no impact on your credit score."
+      }
+    ]
+  },
+  "stats": [
+    { "value": "2M+", "label": "Drivers Compared" },
+    { "value": "$700", "label": "Average Savings" },
+    { "value": "4.8★", "label": "Average Rating" }
+  ],
+  "reviews": {
+    "badge": "REAL REVIEWS",
+    "heading": "What Our Customers Say",
+    "list": [
+      {
+        "stars": 5,
+        "text": "I saved $612 switching from my old provider. The process took less than 5 minutes and the quotes were real — not bait and switch.",
+        "name": "Sarah M.",
+        "location": "Austin, TX",
+        "initials": "SM",
+        "avatarBg": "#0D9488",
+        "featured": true
+      },
+      {
+        "stars": 5,
+        "text": "Was paying way too much for years. SaveDriveQuotes showed me better options immediately. Wish I found this sooner!",
+        "name": "James T.",
+        "location": "Chicago, IL",
+        "initials": "JT",
+        "avatarBg": "#F97316",
+        "featured": false
+      },
+      {
+        "stars": 5,
+        "text": "Super easy to use. Got 6 quotes from top insurers in minutes. Ended up saving $58/month — that's huge for our family budget.",
+        "name": "Maria L.",
+        "location": "Miami, FL",
+        "initials": "ML",
+        "avatarBg": "#6B7280",
+        "featured": false
+      },
+      {
+        "stars": 5,
+        "text": "Skeptical at first but this actually works. Real quotes, real savings. My new rate is $480 less per year.",
+        "name": "Derek R.",
+        "location": "Phoenix, AZ",
+        "initials": "DR",
+        "avatarBg": "#5B3FA6",
+        "featured": false
+      }
+    ]
+  },
+  "savings": {
+    "badge": "REAL NUMBERS",
+    "heading": "See How Much You Could Save",
+    "subheading": "Compare real rates from top insurers — same coverage, better price.",
+    "currentRate": 187,
+    "providers": [
+      { "name": "Progressive", "monthly": 112 },
+      { "name": "Geico", "monthly": 98 },
+      { "name": "State Farm", "monthly": 105 },
+      { "name": "Liberty Mutual", "monthly": 118 }
+    ]
+  },
+  "faq": {
+    "badge": "GOT QUESTIONS?",
+    "heading": "Frequently Asked Questions",
+    "list": [
+      {
+        "q": "How does SaveDriveQuotes work?",
+        "a": "SaveDriveQuotes is a free comparison marketplace. You enter your basic info once, and we instantly match you with quotes from 50+ top-rated insurers so you can compare and choose the best rate."
+      },
+      {
+        "q": "Is it really free to compare quotes?",
+        "a": "Yes, 100% free. There are no fees, no subscriptions, and no hidden charges. We're compensated by our insurance partners when you choose a policy — you never pay a cent."
+      },
+      {
+        "q": "Will comparing quotes affect my credit score?",
+        "a": "No. Getting quotes through SaveDriveQuotes does not impact your credit score in any way. We use a soft inquiry at most, which is completely invisible to lenders."
+      },
+      {
+        "q": "How accurate are the quotes?",
+        "a": "Our quotes are real estimates based on your profile from actual insurance carriers. The final rate may vary slightly after a full underwriting review, but we strive to show you the most accurate numbers possible."
+      },
+      {
+        "q": "How much can I actually save?",
+        "a": "Drivers who compare quotes save an average of $700/year. Your savings depend on your current rate, driving history, and coverage needs, but many users find better rates within minutes."
+      },
+      {
+        "q": "What information do I need to get a quote?",
+        "a": "Just the basics: your ZIP code, name, email, phone number, vehicle info, and current coverage details. The whole form takes under 2 minutes to complete."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Takes Less Than 2 Minutes",
+    "heading1": "Stop Overpaying for",
+    "heading2": "Car Insurance",
+    "subtext": "Join 2 million drivers who've already saved an average of $700/year. Your best rate is waiting.",
+    "btnPrimary": "Compare Free Quotes Now",
+    "trust": ["SSL Encrypted", "No Obligation", "Trusted by 2M+ Drivers"]
+  },
+  "footer": {
+    "company": [
+      { "label": "About Us", "href": "#" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "Careers", "href": "#" },
+      { "label": "Press", "href": "#" }
+    ],
+    "resources": [
+      { "label": "Insurance Guide", "href": "#" },
+      { "label": "State Requirements", "href": "#" },
+      { "label": "Coverage Types", "href": "#" },
+      { "label": "Savings Tips", "href": "#" },
+      { "label": "Blog", "href": "#" }
+    ],
+    "legal": [
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms of Service", "href": "#" },
+      { "label": "Accessibility", "href": "#" },
+      { "label": "Sitemap", "href": "#" },
+      { "label": "Do Not Sell or Share My Personal Information", "href": "#", "highlight": true }
+    ],
+    "disclosure": "SaveDriveQuotes is an independent insurance comparison marketplace and lead generation service. We are not a licensed insurance company, agent, or broker. We do not sell insurance policies directly. By submitting your information, you may be matched with one or more licensed third-party insurance providers from our partner network who will contact you about available coverage options. Quoted rates are estimates only and are not a guarantee of final pricing.",
+    "copyright": "© 2024 SaveDriveQuotes. All rights reserved."
+  }
+}
